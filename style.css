@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(151, 9, 9);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+li{
+    list-style: none;
+    color: white;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.sidebar{
+    position: absolute;
+    border-right: 1px solid rgb(226, 255, 59);
+    border-left: 1px solid rgb(226, 255, 59);
+    border-bottom: 1px solid rgb(226, 255, 59);
+}
+.sidebar a{
+    color: white;
+}
+a:hover{
+    color: rgba(255, 102, 0, 0.959);
+}
+h3{
+    font-family: 20px Arial, Helvetica, sans-serif;
+    color: rgba(255, 102, 0, 0.959);
+    margin-left: 300px;
+}
+.menuitems li{
+    list-style: square;
+    margin-left: 275px;
+}
+.options li{
+    list-style: square;
+    margin-left: 275px;
+}
+.main{
+    border-right: 1px solid rgb(226, 255, 59);
+}
+.main p{ 
+    text-align: left;
+    color: #ffffff;
+    margin-left: 300px;
+}
+figure{
+    display: inline-block;
+    margin-left: 295px;
+} 
+.footer{
+    margin-bottom: 50px;
+    color: white;
+}
